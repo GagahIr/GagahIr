@@ -7,7 +7,6 @@ Currently learning
 - Next.js
 - Laravel
 - Flutter
-- Supabase
 
 ---
 
