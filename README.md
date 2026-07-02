@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Gagah Irlangsa
 
-<!--
-**GagahIr/GagahIr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer from Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+Currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Next.js
+- Laravel
+- Flutter
+- Supabase
+
+---
+
+## Tech Stack
+
+Laravel • Next.js • Flutter • TypeScript • MySQL
+
+---
+
+## Current Projects
+
+- Student Violation System
+- Personal Portfolio
+- Crypto Analysis Dashboard
+
+---
+
+## GitHub Stats
+
+(statistics)
+
+---
+
+## Connect with Me
+
+LinkedIn
+Email
+Portfolio
